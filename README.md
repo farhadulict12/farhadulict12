@@ -21,7 +21,7 @@
 - Developed with PHP, HTML, CSS, JavaScript, MySQL, using XAMPP  
 - Manages books, members, and borrowing details
 
-### 💼 Business Manager App
+### 💼 Business Manager System
 - Mid-level web & Android project using PHP, HTML, CSS, JavaScript, MySQL, and XAMPP  
 - Features supplier management, customer tracking, and profit calculation
 
