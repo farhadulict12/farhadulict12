@@ -25,10 +25,6 @@
 - Mid-level web & Android project using PHP, HTML, CSS, JavaScript, MySQL, and XAMPP  
 - Features supplier management, customer tracking, and profit calculation
 
-### 🧮 Scientific Calculator
-- Built using HTML, CSS, and JavaScript
----
-
 ### 🏅 Codeforces
 - Codeforces Specialist with a max rating of **1452**
 
